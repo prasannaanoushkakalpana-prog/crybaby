@@ -1,0 +1,30 @@
+{
+    "name": "crybaby",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-PlanetX-AI": "github:elecfreaks/pxt-planetx-ai#v1.0.8",
+        "pxt-tabbyvision": "github:kittenbot/pxt-tabbyvision#v1.0.0",
+        "pxt-tabbyrobot": "github:KittenBot/pxt-tabbyrobot#v1.0.14",
+        "sugar": "github:kittenbot/pxt-sugar#v0.4.11",
+        "IoT_keyestudio": "github:keyestudio2019/ks_ioT#e005d5ca91e63fc3dc9871d27e0c5e01cb4972f3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.17",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
